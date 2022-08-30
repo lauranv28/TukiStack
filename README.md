@@ -1,5 +1,3 @@
-# Sprint 6
-
 # TukiStack
 
 | Comisión | Grupo |      Home      |
